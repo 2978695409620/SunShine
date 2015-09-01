@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Development\AndroidStudioProjects\SunShine\Sunshine-Version-2\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="D:\Development\AndroidStudioProjects\SunShine\Sunshine-Version-2\app\build\intermediates\pre-dexed\debug\classes-29c1c024c3c72e1856d3dc69c0a15c95f5064ecb.jar" />
+    </item>
+    <item
+        jar="D:\Development\Android SDK\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="D:\Development\AndroidStudioProjects\SunShine\Sunshine-Version-2\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-dd2fb91a1875923d524455eb8853c82a6cb35cdd.jar" />
+    </item>
+    <item
+        jar="D:\Development\AndroidStudioProjects\SunShine\Sunshine-Version-2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="D:\Development\AndroidStudioProjects\SunShine\Sunshine-Version-2\app\build\intermediates\pre-dexed\debug\classes-d1fb728bb0f223c2d94395da47ce452efbb609ce.jar" />
+    </item>
+    <item
+        jar="D:\Development\AndroidStudioProjects\SunShine\Sunshine-Version-2\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\jars\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="D:\Development\AndroidStudioProjects\SunShine\Sunshine-Version-2\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-317b59d4cdf0fc811bdde639e092bc16793a7397.jar" />
+    </item>
+
+</items>
