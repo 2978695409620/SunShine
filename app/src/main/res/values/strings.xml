@@ -72,4 +72,7 @@
     <!-- Strings related to Notification preference -->
     <string name="pref_last_notification">last_notification</string>
 
+    <!-- API Key for OpenWeatherMap -->
+    <string name="weather_key">1f0a4a5cb3c91bb48afe1fbd93b73f06</string>
+
 </resources>
