@@ -95,7 +95,7 @@ public class SunshineSyncAdapter extends AbstractThreadedSyncAdapter {
             final String APIKEY_PARAM = "APPID";
 
             Uri builtUri = Uri.parse(FORECAST_BASE_URL).buildUpon()
-                    .appendQueryParameter(APIKEY_PARAM, R.string.weather_key)
+                    .appendQueryParameter(APIKEY_PARAM, getContext().getString(R.string.weather_key))
                     .appendQueryParameter(QUERY_PARAM, locationQuery)
                     .appendQueryParameter(FORMAT_PARAM, format)
                     .appendQueryParameter(UNITS_PARAM, units)
